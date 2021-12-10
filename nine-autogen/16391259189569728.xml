@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>16391259189569728.png</filename>
+	<size>
+		<width>580</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>1</name>
+		<bndbox>
+			<xmin>184</xmin>
+			<xmax>219</xmax>
+			<ymin>83</ymin>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>3</name>
+		<bndbox>
+			<xmin>221</xmin>
+			<xmax>281</xmax>
+			<ymin>83</ymin>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>9</name>
+		<bndbox>
+			<xmin>124</xmin>
+			<xmax>181</xmax>
+			<ymin>84</ymin>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>
